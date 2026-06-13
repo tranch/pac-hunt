@@ -23,3 +23,7 @@ you while powered.
 
 Tuning knobs live at the top of the `<script>`: `SPEED_GHOST`, `SPEED_PAC`,
 `SPEED_PAC_POWER`, and `FLEE_R`.
+
+## License
+
+[MIT](LICENSE)
