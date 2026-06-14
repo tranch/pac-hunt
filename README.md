@@ -9,9 +9,14 @@ eats a power pellet he turns the tables and hunts *you* for a few seconds — ru
 
 ## Controls
 
-- Move: arrow keys / `WASD` (swipe on touch)
-- Pause: `Space`
-- Restart: `R`
+| Action | Keyboard | Gamepad |
+|---|---|---|
+| Move | Arrow keys / `WASD` | Left stick / D-pad |
+| Pause | `Space` | Start (button 9) |
+| Restart | `R` | B (button 1) |
+| Start / Play again | any move key | A (button 0) |
+
+Touch: swipe to move.
 
 ## How it works
 
